@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+
+- read and understand the ICML paper
+- run the experiment on ogb-proteins (might be too long) or on another smaller dataset.
+
 # DeepGCNs: Can GCNs Go as Deep as CNNs?
 In this work, we present new ways to successfully train very deep GCNs. We borrow concepts from CNNs, mainly residual/dense connections and dilated convolutions, and adapt them to GCN architectures. Through extensive experiments, we show the positive effect of these deep GCN frameworks.
 
